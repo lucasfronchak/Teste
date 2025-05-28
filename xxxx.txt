@@ -1,0 +1,1 @@
+Beleza! Se você inseriu 50 linhas novas em um arquivo chamado xxx e for ver esse commit no GitHub, aqui está como vai aparecer visualmente na página do commit:
